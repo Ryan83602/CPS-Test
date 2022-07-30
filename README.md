@@ -1,5 +1,7 @@
-# CPS-Test
-得益于系统优化,可以直接使用web.index.html,目前使用cdn
-也可以使用传统的index.html,要本地依赖,所以要一起下载css,js,fonts,icons.
-!重要的:
-你不能直接运行源代码,必须发布到环境上!
+#CPS-Test
+
+###制作人员:Ryan Team & Ryan83602
+
+###V1.1.4内容:删除了NORMAL和WEB分支,直接使用GITHUB PAGE + CDN来实现网站
+
+###代码开源免费
